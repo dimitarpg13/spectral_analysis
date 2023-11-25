@@ -1,1 +1,1 @@
-# frequency_domain_analysis
+# Spectral Analysis Technics and Algorithms
