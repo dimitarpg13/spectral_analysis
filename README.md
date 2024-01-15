@@ -1,1 +1,1 @@
-# Spectral Analysis Technics and Algorithms
+# Spectral Analysis Theory, Techniques and Algorithms
