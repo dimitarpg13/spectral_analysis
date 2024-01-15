@@ -5,9 +5,6 @@
 * [Spectral Analysis of Signals, Petre Stoica, Randolph Moses, 2005](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/SpectralAnalysisOfSignals_StoicaM05.pdf)
 * [Statistical Spectral Analysis: A Nonprobabilistic Theory, William D. Gardner, 1987](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/Statistical_Spectral_Analysis_A_Nonprobabilistic_Theory_Gardner_1987.pdf)
 * Statistical Digital Processing and Modeling, Monson H. Hayes, 1996
-
   [Part 1](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/m_hayes_statistical_digital_signal_proc_part_1.pdf)
-
   [Part 2](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/m_hayes_statistical_digital_signal_proc_part_2.pdf)
-
   [Part 3](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/m_hayes_statistical_digital_signal_proc_part_3.pdf)
