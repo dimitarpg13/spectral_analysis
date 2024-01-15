@@ -1,3 +1,3 @@
-# Resources on Spectral Analysis
+# Resources on Spectral Analysis, with related methods and techniques
 
 
