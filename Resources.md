@@ -16,6 +16,8 @@
   
 * [Fast Fourier Transforms, Algorithms, Applications, Douglas F. Elliott, K.R. Rao, 1982](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/Fast_Transforms_Algorithms_Analyses_Applications_Eliott_Rao.pdf)
 
+* [Mathematical Introduction to Compressed Sensing, Simon Foucart, Holger Rauhut, 2013](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/MathematicalIntroductionToCompressedSensingRauhut.pdf)
+
 ## articles
 
 ### Super-resolution articles
