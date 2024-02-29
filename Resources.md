@@ -26,4 +26,6 @@
 
 * [Uncertainty Principles and Signal Recovery, D. Donoho et al, 1987](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/UncertaintyPrinciplesAndSignalRecoveryDonoho1987.pdf)
 
+* [Compressed Sensing, D. Donoho, Stanford U., 2004](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/CompressedSensingDonoho2004.pdf)
+
 
