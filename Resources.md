@@ -30,6 +30,8 @@
 
 * [Compressed Sensing, D. Donoho, Stanford U., 2004](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/CompressedSensingDonoho2004.pdf)
 
+* [Robust Uncertainty Principles: Exact Signal Reconstruction for Highly Incomplete Signal Information, E. Candes, J. Romberg, Terrence Tao, 2005](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/RobustUncertaintyPrinciplesCandes2005.pdf)
+
 * [Modeling Almost Periodicity in Point Processes, Nan Shao, UC Riverside, 2010](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/ModelingAlmostPeriodicityInPointProcesses2010Thesis.pdf)
 
 
