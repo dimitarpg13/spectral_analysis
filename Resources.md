@@ -22,6 +22,8 @@
 
 * [Towards a Mathematical Theory of Superresolution, E. Candes et al, 2012](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/TowardMathematicalTheoryOfSuperresolutionCandes.pdf)
 
+* [Super-Resolution from Noisy Data, E. Candes et al, 2013](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/SuperResolutionFromNoisyData.pdf)
+
 * [Uncertainty Principles and Signal Recovery, D. Donoho et al, 1987](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/UncertaintyPrinciplesAndSignalRecoveryDonoho1987.pdf)
 
 
