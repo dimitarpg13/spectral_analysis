@@ -30,4 +30,6 @@
 
 * [Compressed Sensing, D. Donoho, Stanford U., 2004](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/CompressedSensingDonoho2004.pdf)
 
+* [Modeling Almost Periodicity in Point Processes, Nan Shao, UC Riverside, 2010](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/ModelingAlmostPeriodicityInPointProcesses2010Thesis.pdf)
+
 
