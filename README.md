@@ -16,13 +16,17 @@ This is work in progress. The repo will be updated regularly.
  
  * [Bayesian Networks](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/LearningBayesianNetworksResources.md)
  
- * [Probabilistic Machine Learning](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/ProbabilisticMachineLearningResources.md)
+ * [Probabilistic Machine Learning and Bayesian Methods](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/ProbabilisticMachineLearningResources.md)
+
+ * [Statistical Learning, Kernel Methods, Kolomogorov-Arnold Networks](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/Resources.md)
 
  * [Optimization, Classification, Regression](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/Resources.md)
  
  * [Causal Inference, Root Cause Analysis and Model Checking](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/RootCauseAnalysisResources.md)
 
  * [Deep Learning and Neural Networks](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/Resources.md)
+
+ * [Deep Learning for solving Image Processing problems and Generative Tasks](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/Resources.md)
 
  * [Hypothesis Testing, Estimation of Treatment Effects and Generalized Synthetic Control](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/Resources.md)
  
