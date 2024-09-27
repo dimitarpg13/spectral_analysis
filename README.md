@@ -28,6 +28,8 @@ This is work in progress. The repo will be updated regularly.
 
  * [Deep Learning for solving Image Processing problems and Generative Tasks](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/Resources.md)
 
+ * [Deep Learning Models for Time Series Forecasting problems](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/Resources.md)
+
  * [Hypothesis Testing, Estimation of Treatment Effects and Generalized Synthetic Control](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/Resources.md)
  
  * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/Resources.md)
@@ -42,7 +44,7 @@ This is work in progress. The repo will be updated regularly.
 
  * [Computability, Automata, Logic Systems, Formal Grammars and Theory of Parsing](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/Resources.md)
 
- * [Thought Forming, Consciousness, Intelligent Machines, Inference, Logic Systems](https://github.com/dimitarpg13/aiconcepts/blob/master/Resources.md)
+ * [Thought Forming, Consciousness, Intelligent Machines, Semantic Inference](https://github.com/dimitarpg13/aiconcepts/blob/master/Resources.md)
 
 ## Note
 
