@@ -13,7 +13,9 @@
   [Part 2](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/m_hayes_statistical_digital_signal_proc_part_2.pdf)
   
   [Part 3](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/m_hayes_statistical_digital_signal_proc_part_3.pdf)
-  
+
+* [Discrete Time Signal Processing, Alan Oppenheim, Ronald Schafer, MIT, 2nd Edition, 1999](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/Discrete_Time_Signal_Processing_Oppenheim_1999.pdf)
+ 
 * [Fast Fourier Transforms, Algorithms, Applications, Douglas F. Elliott, K.R. Rao, 1982](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/Fast_Transforms_Algorithms_Analyses_Applications_Eliott_Rao.pdf)
 
 * [Mathematical Introduction to Compressed Sensing, Simon Foucart, Holger Rauhut, 2013](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/MathematicalIntroductionToCompressedSensingRauhut.pdf)
