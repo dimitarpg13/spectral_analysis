@@ -61,3 +61,7 @@
 * [Spectral Analysis of Point Processes, MS Bartlett, UC London, 1963](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/SpectralAnalysisOfPointProcessesBartlett1967.pdf)
 
 * [Spectral Analysis of Line Processes, MS Bartlett, UC London, 1967](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/SpectralAnalysisOfLineProcesses.pdf)
+
+### Wavelets and related transforms
+
+* [Ten Lectures on Wavelets, Ingrid Daubechies, 1990 CBMS-NSF Conference on Wavelets and Applications](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/wavelets/Ten_Lectures_of_Wavelets.pdf)
