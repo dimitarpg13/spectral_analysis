@@ -22,6 +22,8 @@
 
 * [Mathematical Introduction to Compressed Sensing, Simon Foucart, Holger Rauhut, 2013](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/MathematicalIntroductionToCompressedSensingRauhut.pdf)
 
+* [A Wavelet Tour of Signal Processing, Stepahne Mallat, 1998](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/wavelets/Mallat_Wavelet-Tour-of-Signal-Processing.pdf)
+
 ## articles
 
 ### Super-resolution, Compressed Sensing, Sparse Decompositions and Underdetermined Systems
@@ -63,5 +65,7 @@
 * [Spectral Analysis of Line Processes, MS Bartlett, UC London, 1967](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/SpectralAnalysisOfLineProcesses.pdf)
 
 ### Wavelets and related transforms
+
+* [A Wavelet Tour of Signal Processing, Stepahne Mallat, 1998](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/wavelets/Mallat_Wavelet-Tour-of-Signal-Processing.pdf)
 
 * [Ten Lectures on Wavelets, Ingrid Daubechies, 1990 CBMS-NSF Conference on Wavelets and Applications](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/wavelets/Ten_Lectures_of_Wavelets.pdf)
