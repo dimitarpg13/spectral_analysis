@@ -42,6 +42,8 @@
 
 * [Super-Resolution from Noisy Data, E. Candes, C. Fernandez-Granda, 2012](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/SuperResolutionFromNoisyData.pdf)
 
+* [Support Detection in Super-Resolution, C. Fernandez-Granda, Stanford, 2013](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/SupportDetectionInSuperResolution-fernandez-granda.pdf)
+
 * [Matematical Introduction to Compressed Sensing, S. Foucart, H. Rauhut, 2013](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/MathematicalIntroductionToCompressedSensingRauhut.pdf)
 
 * [Modeling Almost Periodicity in Point Processes, Nan Shao, UC Riverside, 2010](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/ModelingAlmostPeriodicityInPointProcesses2010Thesis.pdf)
