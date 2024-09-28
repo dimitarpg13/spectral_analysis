@@ -22,7 +22,7 @@
 
 ## articles
 
-### Super-resolution articles
+### Super-resolution, Compressed Sensing, Sparse Decompositions and Underdetermined Systems
 
 * [Towards a Mathematical Theory of Superresolution, E. Candes et al, 2012](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/TowardMathematicalTheoryOfSuperresolutionCandes.pdf)
 
@@ -34,6 +34,14 @@
 
 * [Robust Uncertainty Principles: Exact Signal Reconstruction for Highly Incomplete Signal Information, E. Candes, J. Romberg, Terrence Tao, 2005](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/RobustUncertaintyPrinciplesCandes2005.pdf)
 
+* [Quantitative Robust Uncertainty Principle and Optimally Sparse Decompositions E. Candes, J. Romberg, 2006](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/QuantitativeRobustUncertaintyPrinciplesAndOptimallySparseDecompositionsCandes2006.pdf)
+
 * [Modeling Almost Periodicity in Point Processes, Nan Shao, UC Riverside, 2010](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/ModelingAlmostPeriodicityInPointProcesses2010Thesis.pdf)
 
+* [Super-Resolution Estimation of Cyclic Arrival Rates, N. Chen, D. Lee, S.N. Negahban, 2019](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/SUPER-RESOLUTION_ESTIMATION_OF_CYCLIC_ARRIVAL_RATES.pdf)
 
+* [Sparse Non-negative Solutions of Underdetermined Linear Equations by Linear Programming, D. Donoho, J. Tanner, 2005](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/SparseNonnegativeSolutionsOfUnderdeterminedLinearEquationsDonoho.pdf)
+
+* [Spectral Analysis of Point Processes, MS Bartlett, UC London, 1963](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/SpectralAnalysisOfPointProcessesBartlett1967.pdf)
+
+* [Spectral Analysis of Line Processes, MS Bartlett, UC London, 1967](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/SpectralAnalysisOfLineProcesses.pdf)
