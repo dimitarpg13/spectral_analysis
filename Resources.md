@@ -69,3 +69,11 @@
 * [A Wavelet Tour of Signal Processing, Stepahne Mallat, 1998](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/wavelets/Mallat_Wavelet-Tour-of-Signal-Processing.pdf)
 
 * [Ten Lectures on Wavelets, Ingrid Daubechies, 1990 CBMS-NSF Conference on Wavelets and Applications](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/wavelets/Ten_Lectures_of_Wavelets.pdf)
+
+### Fractals and Multiscale Analysis
+
+* [Introduction to MultiFractals, Rudolf H. Riedi, 1999](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/fractal_analysis/introMultifractalsRiedi.pdf)
+
+* [Multifractal Processes, Rudolf H. Riedi, Technical Report, 1999](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/fractal_analysis/Multifractal_Processes_Riedi.pdf)
+
+* [Multifractals: Theory and Application, David Harte, 2001](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/fractal_analysis/multifractals-theory-and-applications-Harte-2001.pdf)
