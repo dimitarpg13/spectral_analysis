@@ -2,6 +2,8 @@
 
 ## books
 
+* [Time Series Analysis and Its Applications, R.H. Shumway, D.S. Stoffer, 3rd Edition, 2011](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/TimeSeriesAnalysisAndItsApplications.pdf)
+
 * [Spectral Analysis of Signals, Petre Stoica, Randolph Moses, 2005](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/SpectralAnalysisOfSignals_StoicaM05.pdf)
   
 * [Statistical Spectral Analysis: A Nonprobabilistic Theory, William D. Gardner, 1987](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/Statistical_Spectral_Analysis_A_Nonprobabilistic_Theory_Gardner_1987.pdf)
@@ -38,11 +40,15 @@
 
 * [Quantitative Robust Uncertainty Principle and Optimally Sparse Decompositions E. Candes, J. Romberg, 2006](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/QuantitativeRobustUncertaintyPrinciplesAndOptimallySparseDecompositionsCandes2006.pdf)
 
+* [Super-Resolution from Noisy Data, E. Candes, C. Fernandez-Granda, 2012](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/SuperResolutionFromNoisyData.pdf)
+
 * [Matematical Introduction to Compressed Sensing, S. Foucart, H. Rauhut, 2013](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/MathematicalIntroductionToCompressedSensingRauhut.pdf)
 
 * [Modeling Almost Periodicity in Point Processes, Nan Shao, UC Riverside, 2010](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/ModelingAlmostPeriodicityInPointProcesses2010Thesis.pdf)
 
 * [Super-Resolution Estimation of Cyclic Arrival Rates, N. Chen, D. Lee, S.N. Negahban, 2019](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/SUPER-RESOLUTION_ESTIMATION_OF_CYCLIC_ARRIVAL_RATES.pdf)
+
+* [Deep Learning for Image Super-Resolution: A Survey, Z. Wang, J. Chen, S. Hoi, IEEE, 2019](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/DeepLearningForSuperresolution2019.pdf)
 
 * [Sparse Non-negative Solutions of Underdetermined Linear Equations by Linear Programming, D. Donoho, J. Tanner, 2005](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/SparseNonnegativeSolutionsOfUnderdeterminedLinearEquationsDonoho.pdf)
 
