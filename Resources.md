@@ -84,6 +84,8 @@
 
 * [The Multifractal Formalism Revisited with Wavelets, J.F. Muzy, E. Bacry, A. Arneodo, 1994](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/fractal_analysis/Muzy-1994-The-Multi-Fractal-Formalism-Revisited-With-Wavelets.pdf)
 
+* [Wavelet Transform of Multifractals, A. Arneodo, Physical Review Letters, 1988](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/fractal_analysis/WaveletTransformOfMultifractals1988.pdf)
+
 * [The Geometry of Fractal Sets, K.J. Falconer, 1985](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/fractal_analysis/GeometryOfFractalSetsBook.pdf)
 
 * [Self-Affinity and Fractal Dimension, Benoit Mandelbrot, Physica Scripta, 1985](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/fractal_analysis/selfAffinity-Mandelbrot-1985.pdf)
