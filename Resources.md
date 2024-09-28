@@ -80,4 +80,8 @@
 
 * [Fractals and Wavelets: What Can We Learn on Transcription and Replication From Wavelet-based Multifractal Analysis of DNA Sequences, A. Arneodo et al, 2007](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/fractal_analysis/Fractals_and_wavelets_arneodo.pdf)
 
+* [Multifractal Methodology, H. Salat, R. Murcio, E. Arcaute, Physica A, 2017](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/fractal_analysis/MultifractalMethodologySalat2017.pdf)
+
 * [The Multifractal Formalism Revisited with Wavelets, J.F. Muzy, E. Bacry, A. Arneodo, 1994](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/fractal_analysis/Muzy-1994-The-Multi-Fractal-Formalism-Revisited-With-Wavelets.pdf)
+
+* [The Geometry of Fractal Sets, K.J. Falconer, 1985](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/fractal_analysis/GeometryOfFractalSetsBook.pdf)
