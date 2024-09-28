@@ -46,6 +46,10 @@
 
 * [Sparse Non-negative Solutions of Underdetermined Linear Equations by Linear Programming, D. Donoho, J. Tanner, 2005](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/SparseNonnegativeSolutionsOfUnderdeterminedLinearEquationsDonoho.pdf)
 
+* [Ideal Spatial Adaptation by Wavelet Shrinkage, D. Donoho, I. Johnstone, Stanford, 1993](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/IdealSpatialAdaptationByWaveletShrinkage.pdf)
+
+* [Uncertainty Principles and Signal Recovery, D. Donoho, P. Stark, UC Berkeley, 1987](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/UncertaintyPrinciplesAndSignalRecoveryDonoho1987.pdf)
+
 * [Spectral Analysis of Point Processes, MS Bartlett, UC London, 1963](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/SpectralAnalysisOfPointProcessesBartlett1967.pdf)
 
 * [Spectral Analysis of Line Processes, MS Bartlett, UC London, 1967](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/SpectralAnalysisOfLineProcesses.pdf)
