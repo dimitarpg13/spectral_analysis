@@ -4,3 +4,6 @@ literature/articles/Cauchy_and_the_Spectral_theorem_for_matrices.pdf filter=lfs 
 literature/books/Discrete_Time_Signal_Processing_Oppenheim_1999.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/fractal_analysis/multifractals-theory-and-applications-Harte-2001.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/hilbert_spaces/Linear_Operators_in_Hilbert_Spaces_Weidmann_1980.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/hilbert_spaces/Hilbert_space_Wikipedia.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/hilbert_spaces/Lp_space_Wikipedia.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/hilbert_spaces/Measure_Theory_Integration_and_Hilbert_Spaces_Stein_2005.pdf filter=lfs diff=lfs merge=lfs -text
