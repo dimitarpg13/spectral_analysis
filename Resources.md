@@ -24,6 +24,8 @@
 
 * [A Wavelet Tour of Signal Processing, Stephane Mallat, 1998](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/wavelets/Mallat_Wavelet-Tour-of-Signal-Processing.pdf)
 
+* [Fourier Series and Integrals, H. Dym and HP McKean, 1972](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/fourier_series_and_integrals_dym_mckean_1972.pdf)
+
 ## articles
 
 ### Super-resolution, Compressed Sensing, Sparse Decompositions and Underdetermined Systems
