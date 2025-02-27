@@ -2,6 +2,14 @@
 
 ## books
 
+* [Fourier Series and Integrals, H. Dym, HP McKean, 1972](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/fourier_series_and_integrals_dym_mckean_1972.pdf)
+
+* [An Introduction to Abstract Harmonic Analysis, Lynn H. Loomis, Harvard, 1953](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/AnIntroductionToAbstractHarmonicAnalysisLoomis1953.pdf)
+
+* [Fourier Analysis on Groups, Walter Rudin, 1960](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/Fourier_analysis_on_groups_Rudin_1962.pdf)
+
+* [Pontryagin Duality and the Structure of Locally Compact Abelian Groups, Sidney A. Morris, 1977](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/Pontryagin_Duality_and_The_Structure_of_Locally_Compact_Abelian_Groups_Morris_1977.pdf)
+
 * [Time Series Analysis and Its Applications, R.H. Shumway, D.S. Stoffer, 3rd Edition, 2011](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/TimeSeriesAnalysisAndItsApplications.pdf)
 
 * [Spectral Analysis of Signals, Petre Stoica, Randolph Moses, 2005](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/SpectralAnalysisOfSignals_StoicaM05.pdf)
@@ -14,11 +22,21 @@
  
 * [Fast Fourier Transforms, Algorithms, Applications, Douglas F. Elliott, K.R. Rao, 1982](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/Fast_Transforms_Algorithms_Analyses_Applications_Eliott_Rao.pdf)
 
+* [Fast Fourier Transforms: Algorithms and Applications, K.R. Rao et al, 2010](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/fft_algorithms-and-applications.pdf)
+
 * [Mathematical Introduction to Compressed Sensing, Simon Foucart, Holger Rauhut, 2013](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/MathematicalIntroductionToCompressedSensingRauhut.pdf)
 
 * [A Wavelet Tour of Signal Processing, Stephane Mallat, 1998](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/wavelets/Mallat_Wavelet-Tour-of-Signal-Processing.pdf)
 
 * [Fourier Series and Integrals, H. Dym and HP McKean, 1972](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/fourier_series_and_integrals_dym_mckean_1972.pdf)
+
+* [Spectral Theory and Quantum Mechanics with an Introduction to the Algebraic Formulation of Quantum Theories, Valter Moretti, 2013](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/spectral-theory-and-quantum-mechanics-with-an-introduction-to-the-algebraic-formulation-of-quantum-theories-Moretti_2013.pdf)
+
+* [Spectral Theory for Mathematicians, Brian C. Hall, 2013](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/Spectral_Theory_for_Mathematicians_Hall_2013.pdf)
+
+* [Mathematical Concepts of Quantum Mechanics, S. Gustafson, I.M. Sigal, 2001](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/MathematicalConceptsOfQuantumMechanics.pdf)
+
+
 
 ## articles
 
@@ -59,6 +77,12 @@
 * [Spectral Analysis of Point Processes, MS Bartlett, UC London, 1963](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/SpectralAnalysisOfPointProcessesBartlett1967.pdf)
 
 * [Spectral Analysis of Line Processes, MS Bartlett, UC London, 1967](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/SpectralAnalysisOfLineProcesses.pdf)
+
+### Duality in Abelian Groups
+
+* [Pontryagin Duality, Wiki](https://en.wikipedia.org/wiki/Pontryagin_duality)
+
+* [Notes on Duality Theories of Abelian Groups, Gabor Lukacs, 2017](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/duality/Notes_on_duality_theories_of_abelian_groups_Lukacs_2017.pdf)
 
 ### Wavelets and related transforms
 
