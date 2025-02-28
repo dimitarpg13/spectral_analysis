@@ -40,6 +40,16 @@
 
 ## articles
 
+### General
+
+* [Certain topics in telegraph transmission theory, H. Nyquist, 1928](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/Nyquist_Certain_Topics_in_Telegraph_Transmission_Theory__AIEE_1928.pdf)
+
+* [What Does the Spectral Theorem Say, PR Halmos, 1963](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/What_does_the_spectral_theorem_say_halmos.pdf) 
+
+* [Cauchy and The Spectral Theorem for Matrices, Thomas Hawkins, Boston U., 1975](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/Cauchy_and_the_Spectral_theorem_for_matrices.pdf)
+
+* [Poisson summation and the discrete Fourier transform, John Kerl, 2008](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/Poisson_summation_and_the_discrete_Fourier_transform_Kerl_2008.pdf)
+
 ### Super-resolution, Compressed Sensing, Sparse Decompositions and Underdetermined Systems
 
 * [Towards a Mathematical Theory of Superresolution, E. Candes et al, 2012](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/TowardMathematicalTheoryOfSuperresolutionCandes.pdf)
