@@ -12,3 +12,4 @@ literature/books/AnIntroductionToAbstractHarmonicAnalysisLoomis1953.pdf filter=l
 literature/books/Pontryagin_Duality_and_The_Structure_of_Locally_Compact_Abelian_Groups_Morris_1977.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Fourier_analysis_on_groups_Rudin_1962.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/Can_One_Hear_the_Shape_of_a_Drum_Kac_1966.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/Theory_of_Communication_Gabor_1946.pdf filter=lfs diff=lfs merge=lfs -text
