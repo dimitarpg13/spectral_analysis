@@ -44,6 +44,8 @@
 
 * [Certain topics in telegraph transmission theory, H. Nyquist, 1928](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/Nyquist_Certain_Topics_in_Telegraph_Transmission_Theory__AIEE_1928.pdf)
 
+* [Theory of Communicaton, D. Gabor, 1946](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/Theory_of_Communication_Gabor_1946.pdf)
+
 * [What Does the Spectral Theorem Say, PR Halmos, 1963](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/What_does_the_spectral_theorem_say_halmos.pdf) 
 
 * [Cauchy and The Spectral Theorem for Matrices, Thomas Hawkins, Boston U., 1975](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/Cauchy_and_the_Spectral_theorem_for_matrices.pdf)
