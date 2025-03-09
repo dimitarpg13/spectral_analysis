@@ -36,6 +36,8 @@
 
 * [Mathematical Concepts of Quantum Mechanics, S. Gustafson, I.M. Sigal, 2001](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/MathematicalConceptsOfQuantumMechanics.pdf)
 
+* [The Cauchy–Schwartz Master Class An Introduction to the Art of Mathematical Inequalities, J. Michael Steele, University of Pennsylvania, 2004](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/An_Introduction_To_The_Art_of_Mathematical_Inequalities_Steele_2004.pdf)
+
 
 
 ## articles
