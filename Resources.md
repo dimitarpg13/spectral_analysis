@@ -40,6 +40,12 @@
 
 * [The Cauchy–Schwartz Master Class An Introduction to the Art of Mathematical Inequalities, J. Michael Steele, University of Pennsylvania, 2004](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/An_Introduction_To_The_Art_of_Mathematical_Inequalities_Steele_2004.pdf)
 
+* [Time Series Analysis, James D. Hamilton, Princeton, 1994](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/Time_Series_Analysis_Hamilton_1994.pdf)
+
+* [Wavelet Methods for Time Series Analysis, Donald B. Percival, Andrew T. Walden, Imperial College of Science, Cambridge Press, 2006](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/Wavelet_Methods_for_Time_Series_Analysis_Percival_Walden_2006.pdf)
+
+* [Spectral Analysis for Univariate Time Series, Donald B. Percival, Andrew T. Walden, Imperial College of Science, Cambridge Press, 2020](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/Spectral_Analysis_For_Univariate_Time_Series_2nd_Ed_2020.pdf)
+
 
 
 ## articles
