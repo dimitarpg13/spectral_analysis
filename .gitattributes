@@ -20,3 +20,4 @@ literature/articles/Time_Series_and_Spectral_Methods_In_Econometrics_Granger_Wat
 docs/Spectral_Analysis_and_Time_Series_Andreas_Lagg.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Time_Series_Analysis_Hamilton_1994.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Wavelet_Methods_for_Time_Series_Analysis_Percival_Walden_2006.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Spectral_Analysis_For_Univariate_Time_Series_2nd_Ed_2020.pdf filter=lfs diff=lfs merge=lfs -text
