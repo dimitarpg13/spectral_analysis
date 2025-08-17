@@ -17,3 +17,4 @@ literature/books/An_Introduction_To_The_Art_of_Mathematical_Inequalities_Steele_
 literature/books/Statistical_Signal_Processing_Johnson_2013.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Think_DSP-DSP_in_Python_Downey_2014.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/Time_Series_and_Spectral_Methods_In_Econometrics_Granger_Watson_HOE_1984.pdf filter=lfs diff=lfs merge=lfs -text
+docs/Spectral_Analysis_and_Time_Series_Andreas_Lagg.pdf filter=lfs diff=lfs merge=lfs -text
