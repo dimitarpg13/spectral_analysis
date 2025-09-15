@@ -136,4 +136,4 @@
 
 ### Spectral Learning 
 
-[Operator-Based Machine Intelligence: A Hilbert Space Framework for Spectral Learning and Symbolic Reasoning, Andrew Kiruluta et al, UC Berkeley, 2025](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/spectral_learning/Operator-Based_Machine_Intelligence-A_Hilbert_Space_Framework_for_Spectral_Learning_and_Symbolic_Reasoning_Kiruluta_2025.pdf)
+* [Operator-Based Machine Intelligence: A Hilbert Space Framework for Spectral Learning and Symbolic Reasoning, Andrew Kiruluta et al, UC Berkeley, 2025](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/spectral_learning/Operator-Based_Machine_Intelligence-A_Hilbert_Space_Framework_for_Spectral_Learning_and_Symbolic_Reasoning_Kiruluta_2025.pdf)
