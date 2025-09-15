@@ -12,6 +12,8 @@
 
 * [Time Series Analysis and Its Applications, R.H. Shumway, D.S. Stoffer, 3rd Edition, 2011](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/TimeSeriesAnalysisAndItsApplications.pdf)
 
+* [An Introduction to Statistical Signal Processing, Robert M. gray and Lee D. Davisson, 2004](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/An_Introduction_to_Statistical_Signal_Processing_Gray_and_Davisson_2004.pdf)
+
 * [Spectral Analysis of Signals, Petre Stoica, Randolph Moses, 2005](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/SpectralAnalysisOfSignals_StoicaM05.pdf)
   
 * [Statistical Spectral Analysis: A Nonprobabilistic Theory, William D. Gardner, 1987](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/Statistical_Spectral_Analysis_A_Nonprobabilistic_Theory_Gardner_1987.pdf)
@@ -131,3 +133,7 @@
 * [The Geometry of Fractal Sets, K.J. Falconer, 1985](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/fractal_analysis/GeometryOfFractalSetsBook.pdf)
 
 * [Self-Affinity and Fractal Dimension, Benoit Mandelbrot, Physica Scripta, 1985](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/fractal_analysis/selfAffinity-Mandelbrot-1985.pdf)
+
+### Spectral Learning 
+
+[Operator-Based Machine Intelligence: A Hilbert Space Framework for Spectral Learning and Symbolic Reasoning, Andrew Kiruluta et al, UC Berkeley, 2025](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/spectral_learning/Operator-Based_Machine_Intelligence-A_Hilbert_Space_Framework_for_Spectral_Learning_and_Symbolic_Reasoning_Kiruluta_2025.pdf)
