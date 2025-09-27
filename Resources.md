@@ -2,6 +2,8 @@
 
 ## books
 
+* [Spectral Methods in Complex Systems, Francesco Caravelli, Los Alamos National Laboratory, 2025](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/Spectral_Methods_in_Complex_Systems_Caravelli_2025.pdf)
+
 * [Fourier Series and Integrals, H. Dym, HP McKean, 1972](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/fourier_series_and_integrals_dym_mckean_1972.pdf)
 
 * [An Introduction to Abstract Harmonic Analysis, Lynn H. Loomis, Harvard, 1953](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/AnIntroductionToAbstractHarmonicAnalysisLoomis1953.pdf)
