@@ -50,7 +50,7 @@
 
 * [Spectral Analysis for Univariate Time Series, Donald B. Percival, Andrew T. Walden, Imperial College of Science, Cambridge Press, 2020](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/Spectral_Analysis_For_Univariate_Time_Series_2nd_Ed_2020.pdf)
 
-
+* [An Introduction to Finite Tight Frames, Shayne F. D. Waldron, 2017](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/books/An_Introduction_to_Finite_Tight_Frames_Waldron_2017_Draft.pdf)
 
 ## articles
 
