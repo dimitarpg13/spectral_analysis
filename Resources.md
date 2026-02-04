@@ -104,7 +104,7 @@
 
 * [Spectral Analysis of Line Processes, MS Bartlett, UC London, 1967](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/compressed_sensing/SpectralAnalysisOfLineProcesses.pdf)
 
-### Spectral Aspects
+### Geometrical Aspects
 
 * [Geometrical aspects of spectral theory, David Krejcirık, 2025](https://github.com/dimitarpg13/spectral_analysis/blob/main/literature/articles/geometry/Geometrical_aspects_of_spectral_theory_Krejcirik_2025.pdf)
 
